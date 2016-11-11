@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy 1" parent="Mac OS X 10.5+">
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="ctrl meta equals" />
+  </action>
+  <action id="ZoomCurrentWindow" />
+</keymap>
