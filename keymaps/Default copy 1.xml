@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy 1" parent="Mac OS X 10.5+">
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="ctrl meta minus" />
+  </action>
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="ctrl meta equals" />
   </action>
