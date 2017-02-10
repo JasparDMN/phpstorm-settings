@@ -1,0 +1,30 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.php" timestamp="1486742616780" />
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>)</text>
+      </register>
+      <register name="-" type="4">
+        <text>)</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
