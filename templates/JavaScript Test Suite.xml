@@ -1,0 +1,33 @@
+<templateSet group="JavaScript Test Suite">
+  <template name="after" value="afterEach( () =&gt;{&#10;  $END$&#10;} );" description="Jasmine afterEach() statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="before" value="beforeEach( () =&gt;{&#10;  $END$&#10;} );" description="Jasmine beforeEach() statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="it" value="it( '$DESCRIPTION$', () =&gt;{&#10;  $END$&#10;} );" description="Jasmine it() statement" toReformat="true" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="desc" value="describe( '$DESCRIPION$', () =&gt;{&#10;  $END$&#10;} );" description="Jasmine describe() statement" toReformat="true" toShortenFQNames="true">
+    <variable name="DESCRIPION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="$when" value="$httpBackend.when( '$METHOD$', '$PATH$' ).respond( $RESPONSE_CODE$, $RESPONSE$ );" description="Request setup" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD" expression="" defaultValue="GET" alwaysStopAt="true" />
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RESPONSE_CODE" expression="" defaultValue="200" alwaysStopAt="true" />
+    <variable name="RESPONSE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
