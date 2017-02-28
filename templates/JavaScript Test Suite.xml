@@ -30,4 +30,11 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="spy" value="spyOn( $OBJECT$, '$METHOD$' ).and.$END$;" description="Jasmine spyOn() statement" toReformat="true" toShortenFQNames="true">
+    <variable name="OBJECT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
