@@ -1,0 +1,7 @@
+<templateSet group="General">
+  <template name="shrug" value="¯\_(ツ)_/¯" description="Shrug emoji" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
