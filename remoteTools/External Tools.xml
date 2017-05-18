@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Test.php" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="CURRENT_VAGRANT">
+    <exec>
+      <option name="COMMAND" value="php" />
+      <option name="PARAMETERS" value="tasks.php t=script p=current/test.php" />
+      <option name="WORKING_DIRECTORY" value="/srv/dmn-frontend" />
+    </exec>
+  </tool>
+</toolSet>
