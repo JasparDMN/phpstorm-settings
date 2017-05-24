@@ -15,10 +15,8 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="desc" value="describe( '$DESCRIPION$', () =&gt;{&#10;  beforeEach( () =&gt;{&#10;    $BEFORE$&#10;  } );&#10;  &#10;  afterEach( () =&gt; {&#10;    $AFTER$&#10;  } );&#10;  &#10;  $END$&#10;} );" description="Jasmine describe() statement" toReformat="true" toShortenFQNames="true">
+  <template name="desc" value="describe( '$DESCRIPION$', () =&gt;{&#10;  $END$&#10;} );" description="Jasmine describe() statement" toReformat="true" toShortenFQNames="true">
     <variable name="DESCRIPION" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="BEFORE" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="AFTER" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
