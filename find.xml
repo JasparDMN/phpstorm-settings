@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.json" />
     <recentFileMasks>
       <mask>*..php</mask>
       <mask>!*.j</mask>
@@ -21,8 +22,6 @@
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*</mask>
-      <mask>!*.json</mask>
-      <mask>*.json</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.html</mask>
@@ -36,6 +35,8 @@
       <mask>*.tphp</mask>
       <mask>*.php</mask>
       <mask>*.*</mask>
+      <mask>*.json</mask>
+      <mask>!*.json</mask>
     </recentFileMasks>
   </component>
 </application>
