@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.json" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.sc</mask>
       <mask>*.s</mask>
@@ -12,7 +12,6 @@
       <mask>!*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.html</mask>
@@ -35,6 +34,7 @@
       <mask>!*.t</mask>
       <mask>!*.</mask>
       <mask>!*.json</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
