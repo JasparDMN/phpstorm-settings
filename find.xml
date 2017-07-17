@@ -5,7 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.json" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
@@ -14,7 +14,6 @@
       <mask>*.tp</mask>
       <mask>*.tphp</mask>
       <mask>*.*</mask>
-      <mask>!*.j</mask>
       <mask>*.tpl</mask>
       <mask>!*.tpl</mask>
       <mask>!*.tp</mask>
@@ -26,10 +25,7 @@
       <mask>.js</mask>
       <mask>.json</mask>
       <mask>!*.jsonn</mask>
-      <mask>!*.jso</mask>
-      <mask>!*.js</mask>
       <mask>*</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
@@ -37,6 +33,10 @@
       <mask>*.</mask>
       <mask>*.json</mask>
       <mask>!*.json</mask>
+      <mask>!*.jso</mask>
+      <mask>!*.j</mask>
+      <mask>!*.js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
