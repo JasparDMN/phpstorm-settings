@@ -8,12 +8,9 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.t</mask>
       <mask>*.tp</mask>
       <mask>*.tphp</mask>
       <mask>*.*</mask>
-      <mask>*.tpl</mask>
-      <mask>!*.tpl</mask>
       <mask>!*.tp</mask>
       <mask>!*.t</mask>
       <mask>!*.</mask>
@@ -30,14 +27,17 @@
       <mask>!*.jso</mask>
       <mask>!*.j</mask>
       <mask>!*.js</mask>
-      <mask>*.j</mask>
       <mask>*.php</mask>
       <mask>*.p</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.tpl</mask>
+      <mask>!*.tpll</mask>
+      <mask>!*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
