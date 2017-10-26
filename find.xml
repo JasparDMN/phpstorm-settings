@@ -7,23 +7,16 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.tpl, !*.scss" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>!*.json</mask>
-      <mask>!*.jso</mask>
-      <mask>!*.j</mask>
-      <mask>!*.js</mask>
-      <mask>*.php</mask>
       <mask>*.p</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.tpl</mask>
       <mask>!*.tpll</mask>
-      <mask>!*.tpl</mask>
       <mask>!*.tpl,</mask>
       <mask>!*.tpl,</mask>
       <mask>!*.tpl, !</mask>
@@ -39,6 +32,13 @@
       <mask>!*.tpl, !*.sc</mask>
       <mask>!*.tpl, !*.scs</mask>
       <mask>!*.tpl, !*.scss</mask>
+      <mask>!*.tpl</mask>
+      <mask>!*.tp</mask>
+      <mask>!*.t</mask>
+      <mask>!*.</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
