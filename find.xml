@@ -1,21 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.tpl" />
     <recentFileMasks>
-      <mask>*.p</mask>
-      <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.tpl</mask>
       <mask>!*.tpll</mask>
       <mask>!*.tpl,</mask>
       <mask>!*.tpl,</mask>
@@ -37,8 +30,11 @@
       <mask>!*.t</mask>
       <mask>!*.</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
