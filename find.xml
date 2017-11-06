@@ -3,19 +3,10 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>!*.tpl, !</mask>
-      <mask>!*.tpl, !*</mask>
-      <mask>!*.tpl, !*.css</mask>
-      <mask>!*.tpl, !*.cs</mask>
-      <mask>!*.tpl, !*.c</mask>
-      <mask>!*.tpl, !*.</mask>
-      <mask>!*.tpl, !*.sass</mask>
-      <mask>!*.tpl, !*.sas</mask>
       <mask>!*.tpl, !*.sa</mask>
       <mask>!*.tpl, !*.s</mask>
       <mask>!*.tpl, !*.sc</mask>
@@ -32,12 +23,20 @@
       <mask>*.tpl</mask>
       <mask>*.tp</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.b</mask>
-      <mask>*.bla</mask>
       <mask>*.blade</mask>
-      <mask>*.blade.</mask>
       <mask>*.blade.php</mask>
+      <mask>*.blade.ph</mask>
+      <mask>*.blade.p</mask>
+      <mask>*.blade.</mask>
+      <mask>*.blad</mask>
+      <mask>*.bla</mask>
+      <mask>*.bl</mask>
+      <mask>*.b</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
