@@ -1,14 +1,4 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings>
-      <MessDetectorConfiguration />
-    </phpmd_settings>
-  </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings>
-      <PhpCSConfiguration />
-    </phpcs_settings>
-  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="vagrant:///Users/jaspargupta/Projects/DesignMyNight/infrastructure/usr/bin/php" id="e7874b7f-87c0-428a-8edf-c8685ae9f5d8" name="Remote PHP 5.5" debugger_id="php.debugger.XDebug">
@@ -20,7 +10,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 5.5">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php5" path_separator=":" remote_host="10.0.2.2 53540 22" version="5.5.9-1ubuntu4.20">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php5" path_separator=":" remote_host="10.0.2.2" version="5.5.9-1ubuntu4.20">
           <additional_php_ini>/etc/php5/cli/conf.d/05-opcache.ini, /etc/php5/cli/conf.d/10-pdo.ini, /etc/php5/cli/conf.d/20-curl.ini, /etc/php5/cli/conf.d/20-gd.ini, /etc/php5/cli/conf.d/20-json.ini, /etc/php5/cli/conf.d/20-mcrypt.ini, /etc/php5/cli/conf.d/20-mongo.ini, /etc/php5/cli/conf.d/20-mysql.ini, /etc/php5/cli/conf.d/20-mysqli.ini, /etc/php5/cli/conf.d/20-oauth.ini, /etc/php5/cli/conf.d/20-pdo_mysql.ini, /etc/php5/cli/conf.d/20-redis.ini, /etc/php5/cli/conf.d/20-xdebug.ini, /etc/php5/cli/conf.d/20-xsl.ini</additional_php_ini>
           <configuration_file>/etc/php5/cli/php.ini</configuration_file>
           <configuration_options>
@@ -658,10 +648,5 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
-  </component>
-  <component name="PhpUnit">
-    <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="e7874b7f-87c0-428a-8edf-c8685ae9f5d8" load_method="CUSTOM_LOADER" configuration_file_path="/srv/dmn-frontend/current/phpunit.xml" custom_loader_path="/srv/dmn-frontend/current/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
-    </phpunit_settings>
   </component>
 </application>
