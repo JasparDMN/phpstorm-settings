@@ -5,10 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*blade.php" />
     <recentFileMasks>
-      <mask>!*.tp</mask>
-      <mask>!*.t</mask>
-      <mask>!*.</mask>
       <mask>*.tpl</mask>
       <mask>*.tp</mask>
       <mask>*.t</mask>
@@ -36,6 +34,9 @@
       <mask>*.s</mask>
       <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>*b.php</mask>
+      <mask>*bla.php</mask>
+      <mask>*blade.php</mask>
     </recentFileMasks>
   </component>
 </application>
