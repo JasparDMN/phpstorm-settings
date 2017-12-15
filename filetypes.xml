@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="down" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="post-checkout" type="PLAIN_TEXT" />
       <mapping pattern=".buttplug" type="PLAIN_TEXT" />
