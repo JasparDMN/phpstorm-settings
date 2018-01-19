@@ -3,14 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*.b</mask>
-      <mask>*.b.php</mask>
-      <mask>*.bla.php</mask>
       <mask>*.blade.php</mask>
       <mask>*.=.php</mask>
       <mask>*..php</mask>
-      <mask>*.ph</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
@@ -22,10 +19,6 @@
       <mask>*hp</mask>
       <mask>*p</mask>
       <mask>*</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.php, !</mask>
       <mask>*.php, !Test</mask>
       <mask>*.php, !Tes</mask>
@@ -34,6 +27,14 @@
       <mask>*.php,</mask>
       <mask>*.php,</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
