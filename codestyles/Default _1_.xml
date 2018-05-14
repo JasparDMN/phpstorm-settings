@@ -33,6 +33,7 @@
     <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
     <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
+    <option name="BLANK_LINES_AROUND_CONSTANTS" value="1" />
     <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="1" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="SPACE_AFTER_COLON_IN_RETURN_TYPE" value="false" />
@@ -113,7 +114,23 @@
         <section>
           <rule>
             <match>
-              <FIELD>true</FIELD>
+              <AND>
+                <FIELD>true</FIELD>
+                <STATIC>false</STATIC>
+                <visibility />
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <FIELD>true</FIELD>
+                <STATIC>true</STATIC>
+                <visibility />
+              </AND>
             </match>
             <order>BY_NAME</order>
           </rule>
