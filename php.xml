@@ -1,4 +1,10 @@
 <application>
+  <component name="MessDetector">
+    <phpmd_settings_migrated />
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="vagrant:///Users/jaspargupta/Projects/DesignMyNight/infrastructure/usr/bin/php" id="e7874b7f-87c0-428a-8edf-c8685ae9f5d8" name="Remote PHP 5.5" debugger_id="php.debugger.XDebug">
