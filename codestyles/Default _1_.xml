@@ -17,7 +17,7 @@
     <option name="HTML_TEXT_WRAP" value="0" />
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
   </HTMLCodeStyleSettings>
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
@@ -29,7 +29,7 @@
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
-    <option name="ELSE_IF_STYLE" value="SEPARATE" />
+    <option name="ELSE_IF_STYLE" value="COMBINE" />
     <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
     <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
@@ -89,11 +89,6 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
-    <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
-    <option name="ELSE_ON_NEW_LINE" value="true" />
-    <option name="WHILE_ON_NEW_LINE" value="true" />
-    <option name="CATCH_ON_NEW_LINE" value="true" />
-    <option name="FINALLY_ON_NEW_LINE" value="true" />
     <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
