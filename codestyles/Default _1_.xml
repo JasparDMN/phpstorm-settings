@@ -110,6 +110,33 @@
             <match>
               <AND>
                 <FIELD>true</FIELD>
+                <PUBLIC>true</PUBLIC>
+                <STATIC>false</STATIC>
+                <visibility />
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <FIELD>true</FIELD>
+                <PROTECTED>true</PROTECTED>
+                <STATIC>false</STATIC>
+                <visibility />
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <FIELD>true</FIELD>
+                <PRIVATE>true</PRIVATE>
                 <STATIC>false</STATIC>
                 <visibility />
               </AND>
