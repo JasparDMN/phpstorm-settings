@@ -1,21 +1,22 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="ignore" type="Git exclude file" />
       <mapping ext="tfstate" type="JSON" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="post-checkout" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern=".buttplug" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern=".buttplug" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="post-checkout" type="PLAIN_TEXT" />
       <mapping pattern="down" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
-      <mapping ext="stub" type="PLAIN_TEXT" />
-      <mapping ext="erb" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="keep" type="PLAIN_TEXT" />
+      <mapping ext="erb" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping pattern=".tpl" type="Smarty" />
     </extensionMap>
   </component>
