@@ -5,14 +5,13 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="ignore" type="Git exclude file" />
       <mapping ext="tfstate" type="JSON" />
+      <mapping pattern="post-checkout" type="PLAIN_TEXT" />
+      <mapping pattern=".buttplug" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="down" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern=".buttplug" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern="post-checkout" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="keep" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
