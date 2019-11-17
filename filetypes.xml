@@ -6,11 +6,11 @@
       <mapping pattern="ignore" type="Git exclude file" />
       <mapping ext="tfstate" type="JSON" />
       <mapping pattern=".env_production" type="PLAIN_TEXT" />
-      <mapping pattern="post-checkout" type="PLAIN_TEXT" />
       <mapping pattern=".buttplug" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="down" type="PLAIN_TEXT" />
+      <mapping pattern="post-checkout" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="keep" type="PLAIN_TEXT" />
