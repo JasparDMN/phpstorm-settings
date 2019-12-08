@@ -8,8 +8,18 @@
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
+  <component name="JSCodeFoldingSettings">
+    <option name="collapseArrayLiterals" value="true" />
+    <option name="collapseObjectLiterals" value="true" />
+    <option name="COLLAPSE_OBJECT_LITERALS" value="true" />
+    <option name="COLLAPSE_ARRAY_LITERALS" value="true" />
+  </component>
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
+  </component>
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_FUNCTION_BODY" value="true" />
+    <option name="COLLAPSE_METHOD_BODY" value="true" />
   </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
