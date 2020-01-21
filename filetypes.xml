@@ -14,7 +14,6 @@
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".tpl" type="Smarty" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="PLAIN_TEXT" />
